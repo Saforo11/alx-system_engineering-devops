@@ -1,0 +1,1 @@
+An alias 'rm *' is created for the command ls.
