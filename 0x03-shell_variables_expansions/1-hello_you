@@ -1,4 +1,5 @@
 #!/bin/bash
-echo 'hello user'/n
+echo 'hello user'
+
 
 
