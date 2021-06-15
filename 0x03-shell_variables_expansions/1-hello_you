@@ -1,5 +1,3 @@
 #!/bin/bash
-echo 'hello user'
-
-
+echo "hello user"
 
